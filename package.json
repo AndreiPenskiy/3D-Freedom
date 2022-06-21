@@ -6,7 +6,7 @@
   "homepage": "https://andreipenskiy.github.io/3D-Freedom/",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/*.html --public-url /group13/"
+    "build": "parcel build src/*.html --public-url /3D-Freedom/"
   },
   "repository": {
     "type": "git",
